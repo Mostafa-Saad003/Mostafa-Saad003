@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  # Hi, I'm Mostafa Ibrahim!
+  # I'm Mostafa Ibrahim!
   
 </div>
 
