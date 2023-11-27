@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About me
 - 🇪🇬 I'm from Cairo, Egypt
-- 💻 Biomedical Sciences Student with a concentration in Molecular and Cell Biology at [University Of Science & Technology at Zewail City] (https://www.zewailcity.edu.eg/main/content.php?lang=en&alias=university_of_science_and_technology))
-- 🚀 Enthusiastic about Problem-solving, DevOps, Cloud Computing, AI, and the intricate world of Embedded Systems
+- 💻 Biomedical Sciences Student at [University Of Science & Technology at Zewail City] (https://www.zewailcity.edu.eg))
+- 🚀 Enthusiastic about Problem-solving, DevOps, AI, and the intricate world of immunology and antibody-based cancer therapy
 
 
 **I love working with**
@@ -35,26 +35,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
 </div>
 
-### 🤔 I’m looking for help with
+### 🤗 I’m looking for the integration of Generative AI in Antibody Engineering and Protective Antigen Prediction
 
-- Integrating AI models into web applications
+- Employing AI and ML models in developing better therapeutic enterprises
 
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/aamousa/">
+  <a href="https://www.linkedin.com/in/mostafa-ibrahim-4666811a7/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100005863574052">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook Logo" width="30">
-  </a>
-  
-  <a href="mailto:ahmed.mousa@ejust.edu.eg">
+  </a>   
+  <a href="mailto:s-mostafa.ibrahim@zewailcity.edu.eg">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" width="100">
   </a>
 
