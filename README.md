@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About me
 - 🇪🇬 I'm from Cairo, Egypt
-- 💻 Computer and Engineering Student at [Egypt Japan University Of Science & Technology] (https://www.ejust.edu.eg/))
+- 💻 Biomedical Sciences Student with a concentration in Molecular and Cell Biology at [University Of Science & Technology at Zewail City] (https://www.zewailcity.edu.eg/main/content.php?lang=en&alias=university_of_science_and_technology))
 - 🚀 Enthusiastic about Problem-solving, DevOps, Cloud Computing, AI, and the intricate world of Embedded Systems
 
 
