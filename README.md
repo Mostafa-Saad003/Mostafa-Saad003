@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About me
 - 🇪🇬 I'm from Cairo, Egypt
-- 💻 Biomedical Sciences Student at [University Of Science & Technology at Zewail City] (https://www.zewailcity.edu.eg))
-- 🚀 Enthusiastic about Problem-solving, DevOps, AI, and the intricate world of immunology and antibody-based cancer therapy
+- 💻 Biomedical Sciences (Molecular and Cell Biology) Graduate from the [University Of Science & Technology at Zewail City] (https://www.zewailcity.edu.eg))
+- 🚀 Enthusiastic about Problem-solving, DevOps, AI, and the intricate world of RNA-based therapeutics, immunology, and antibody-based cancer therapy
 
 
 **I love working with**
