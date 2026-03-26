@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
 </div>
 
-### 🤗 I’m looking for the integration of Generative AI in Antibody Engineering and Protective Antigen Prediction
+### 🤗 I’m looking for the integration of Generative AI in RNA Therapeutics, Gene Therapy, and Antibody Engineering for Cancer Treatment.
 
 - Employing AI and ML models in developing better therapeutic enterprises
 
