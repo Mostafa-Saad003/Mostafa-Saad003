@@ -47,9 +47,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/mostafa-ibrahim-4666811a7/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>   
-  <a href="t-mostafa.ibrahim@zewailcity.edu.eg">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" width="100">
-  </a>
+  <a href="mailto:t-mostafa.ibrahim@zewailcity.edu.eg" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" width="100">
+</a>
 
   
 </div>
